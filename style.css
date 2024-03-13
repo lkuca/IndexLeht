@@ -1,0 +1,131 @@
+
+body {
+    background-image: url('d481f3c72e283309071f79e01b05c06d.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+footer {
+    cursor: pointer;
+    text-decoration: underline;
+    color: white;
+    position: relative;
+}
+
+.ellipsis {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 20px;
+}
+
+#hiddenText {
+    display: none;
+    position: absolute;
+    top: 25px;
+    right: 5px;
+    color: white;
+}
+header {
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+header h1 {
+
+    font-size: 30px;
+    letter-spacing: 0.3cm;
+    color: white;
+    margin: auto;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+nav li {
+    float: none;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    font-size: 33px;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 30px;
+    border-right: crimson;
+    font-variant: small-caps;
+}
+
+nav li a:hover {
+    background-color: #111;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 98%;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#tekst {
+    font-weight: bold;
+    font-family: Arimo;
+    font-size: 18px;
+    color: #333;
+}
+
+.ellipsis {
+    position: absolute;
+    top: -600px;
+    left: 5px;
+    font-size: 40px;
+    color: white;
+    text-align: left;
+}
+
+#hiddenText {
+    display: none;
+    position: absolute;
+    top: -560px;
+    font-size: 25px;
+    left: 5px;
+    color: white;
+    text-align: left;
+}
+section{
+    background-image: url('EamV.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 3px;
+    border: #97ac9f;
+    text-decoration: none;
+    color: white;
+    a{
+        text-decoration: none;
+        color: white;
+        font-size-adjust: 0.70;
+        width: 100%;
+    }
+
+}
+p{
+    background-image: url("dghcwi0-cd9683cd-07ed-4f83-a8e6-092cc1d5b398.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    color: white;
+}
+
+
